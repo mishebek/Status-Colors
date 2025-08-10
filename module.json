@@ -1,0 +1,16 @@
+{
+  "id": "status-colors",
+  "esmodules":["script.js"],
+  "title": "Colored Status Icons",
+  "version": "1.0.0",
+  "manifest": "https://github.com/mishebek/status-colors/releases/latest/download/module.json",
+  "download": "https://github.com/mishebek/status-colors/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "0",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "description": ""
+}
